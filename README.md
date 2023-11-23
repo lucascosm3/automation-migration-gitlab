@@ -16,19 +16,18 @@ Esta ferramenta automatiza a migração de projetos de uma instância MVP do Git
 Para usar esta ferramenta, é necessário ter um sistema Linux capaz de executar scripts `.sh`.
 
 ## Uso
-Forneça instruções detalhadas sobre como usar cada script, incluindo quaisquer parâmetros ou configurações necessárias.
-
-### `clone_repos.sh`
-Breve descrição do que este script faz.
 
 ### `get_repos.sh`
-Breve descrição do que este script faz.
+Esse script vai obter o link dos reposositórios do Gitlab que você deseja fazer backup dos projetos.
+
+### `clone_repos.sh`
+Esse script vai fazer o clone dos repositórios para sua máquina, do Gitlab que você deseja fazer backup dos projetos.
 
 ### `push_repos.sh`
-Breve descrição do que este script faz.
+Esse script vai fazer um push de todos os repositórios que foram feito o clone, para o Gitlab Definitivo.
 
 ## Contribuindo
 Instruções para como outros podem contribuir para este projeto.
 
 ## Licença
-Este projeto está sob a licença MIT.
+Este projeto está licenciado sob a [Licença MIT](LICENSE.md)
