@@ -26,5 +26,12 @@ Esse script vai fazer o clone dos repositórios para sua máquina, do Gitlab que
 ### `push_repos.sh`
 Esse script vai fazer um push de todos os repositórios clonados da sua máquina, para o Gitlab Definitivo.
 
+## Contribuindo
+Contribuições para aprimorar o projeto são bem-vindas. Por favor, siga as seguintes diretrizes:
+- Faça um fork do repositório e crie uma nova branch para sua funcionalidade ou correção de bug.
+- Certifique-se de que seu código adere ao estilo existente para consistência.
+- Atualize o README.md com detalhes das alterações, incluindo novas variáveis de ambiente, portas expostas, locais úteis de arquivos e parâmetros de contêiner.
+- Envie um pull request com uma descrição clara das mudanças e quaisquer números de issues relevantes.
+
 ## Licença
 Este projeto está licenciado sob a [Licença MIT](LICENSE.md)
