@@ -24,7 +24,7 @@ Esse script vai obter o link dos reposositórios do Gitlab que você deseja faze
 Esse script vai fazer o clone dos repositórios para sua máquina, do Gitlab que você deseja fazer backup dos projetos.
 
 ### `push_repos.sh`
-Esse script vai fazer um push de todos os repositórios que foram feito o clone, para o Gitlab Definitivo.
+Esse script vai fazer um push de todos os repositórios clonados da sua máquina, para o Gitlab Definitivo.
 
 ## Contribuindo
 Instruções para como outros podem contribuir para este projeto.
